@@ -21,7 +21,7 @@ namespace inlämningsUpggift1
 
         public string Email { get; set; }
 
-
+        public string Age { get; set; }
        
        
 
